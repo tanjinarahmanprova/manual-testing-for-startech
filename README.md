@@ -21,5 +21,7 @@ This repository contains comprehensive documentation and reports for a manual te
 
 ## Testing Tools
 Test plan: Microsoft Word
+
 Mindmap: -[Xmind](https://xmind.app/download/?fbclid=IwAR1RHoYK2xm2ay9XU6mQKowyQhYlrr3urPm95NVfFx1V5la8xu6hsXGAgQ8)
+
 Test Case Management: Microsoft Excel
