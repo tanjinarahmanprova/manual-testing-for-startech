@@ -28,5 +28,5 @@ Test Case Management: Microsoft Excel
 
 ## Test Plan
 A test plan is a document that details the scope, objectives, resources, schedule, and methodology for testing a software application. It encompasses the test strategy, specific test scenarios, and test cases, along with the entry and exit criteria for the testing phase. Additionally, the test plan outlines the roles and responsibilities of the testing team and incorporates risk management strategies to address potential issues during the testing process.
-
+![testplan](https://github.com/tanjinarahmanprova/manual-testing-for-startech/assets/129376867/53fde751-6f8e-4db2-be9e-5f148570db3e)
 
