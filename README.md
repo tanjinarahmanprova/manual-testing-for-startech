@@ -6,7 +6,7 @@
 
 ## Table of content
 - [Overview](#overview)
-- [Testing Tools](#testing-tool)
+- [Testing Tools](#testing-tools)
 - [Test Plan](#testplan)
 - [Mindmap](#mindmap)
 - [Test Scenario](#testscenario)
