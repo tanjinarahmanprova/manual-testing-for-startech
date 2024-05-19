@@ -7,11 +7,11 @@
 ## Table of content
 - [Overview](#overview)
 - [Testing Tools](#testing-tools)
-- [Test Plan](#testplan)
+- [Test Plan](#test-plan)
 - [Mindmap](#mindmap)
-- [Test Scenario](#testscenario)
-- [Test case](#testcase)
-- [Test Summary Report](#summary)
+- [Test Scenario](#test-scenario)
+- [Test case](#test-case)
+- [Test Summary Report](#test-summary-report)
 - [Bug Report](#bug-report)
 - [Test Metrics](#test-metrics)
 - [Contact](#contact)
@@ -25,3 +25,8 @@ Test plan: Microsoft Word
 Mindmap: -[Xmind](https://xmind.app/download/?fbclid=IwAR1RHoYK2xm2ay9XU6mQKowyQhYlrr3urPm95NVfFx1V5la8xu6hsXGAgQ8)
 
 Test Case Management: Microsoft Excel
+
+## Test Plan
+A test plan is a document that details the scope, objectives, resources, schedule, and methodology for testing a software application. It encompasses the test strategy, specific test scenarios, and test cases, along with the entry and exit criteria for testing phase. Additionally, the test plan outlines the roles and responsibilities of the testing team and incorporates risk management strategies to address potential issues during the testing process.
+![testplan](https://drive.google.com/file/d/14_JMYWX-9AEwW6VSSwNt-Q-rK2G2osnn/view?usp=drive_link)
+
